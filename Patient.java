@@ -1,4 +1,6 @@
-public class Patient { 
+package com;
+
+public class Patient extends person { 
     private String patientId; 
     private String patientName; 
     private String roomNumber; 
