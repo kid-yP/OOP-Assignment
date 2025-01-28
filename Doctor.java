@@ -1,7 +1,7 @@
 import java.util.ArrayList; 
 import java.util.List; 
  
-public class Doctor { 
+public class Doctor extends Staff { 
     private String doctorId; 
     private String doctorName; 
     private String department; 
